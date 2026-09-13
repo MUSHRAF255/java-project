@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: devops-app
-          image: mushraf234/devops-app:v1
+          image: mushraf234/devops-app:v2
           ports:
             -  containerPort: 8080
 
